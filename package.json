@@ -33,7 +33,7 @@
     "reddit-text-js": "0.5.4",
     "scmp": "1.0.0",
     "simple-oauth2": "0.2.1",
-    "snoode": "1.7.1",
+    "snoode": "git://github.com/ajacksified/snoode.git#fb7eccc932e84d8a7d85a178457fcf47fda660b6",
     "superagent": "1.2.0",
     "uuid": "2.0.1"
   },
